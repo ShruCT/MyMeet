@@ -1,0 +1,34 @@
+.form-field {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.form-label {
+    font-size: 25px;
+    padding-right: 24px;
+}
+
+.form-control {
+    width: 580px;
+    height: 35px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.multiselect {
+    width: 580px;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.multiselect .searchWrapper {
+    padding: 10px;
+}
+
+.title {
+    margin-left: 32px;
+    margin-right: 36px;
+}
